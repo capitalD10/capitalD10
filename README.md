@@ -23,7 +23,7 @@
 
 ### ABOUT ME
 
-I'm a Computer Science student interested in AI/ML, mobile app development, game development, and Cybersecurity. I enjoy turning ideas into practical projects and learning by building. Currently working on making my portfolio website and designing UIs. Also working on a notepad app with AI features and building many online tools.
+I'm a Computer Science student interested in AI/ML, mobile app development, game development, and Cybersecurity. I enjoy turning ideas into practical projects and learning by building. Currently working on making my portfolio website and designing UIs. Currently doing research on HCI, Agentic security and NLP. Also working on a notepad app with AI features and building many online tools.
 
 ---
 
