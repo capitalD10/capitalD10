@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hey, I'm YOUR NAME 👋</h1>
 
 <p align="center">
@@ -51,4 +50,3 @@ I'm a CSE student interested in AI/ML, mobile app development, and game developm
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-```
