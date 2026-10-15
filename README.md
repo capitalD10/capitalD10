@@ -33,7 +33,7 @@ I'm a Computer Science student interested in AI/ML, mobile app development, game
 
 #### Languages & Core
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,c,cs,java,js,md,latex,php,ts" />
+  <img src="https://skillicons.dev/icons?i=py,c,java,js,md,latex,php,ts" />
 </a>
 
 #### Frameworks & Databases
